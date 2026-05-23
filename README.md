@@ -3,7 +3,7 @@
 A pixel-perfect, high-fidelity frontend cloning project replicating the dense, multi-layered layout structure of the Amazon India homepage. This project was built completely from scratch using pure **HTML5** and **CSS3** to demonstrate mastery over complex UI layouts, component alignment, and structural grid management.
 
 ### 🔗 Live Deployment & Preview
-* **Live Demo:** [https://amazon-clone-delta-swart.vercel.app/](https://sameer-amazon-clone.vercel.app/)
+* **Live Demo:** [https://sameer-amazon-clone.vercel.app/](https://sameer-amazon-clone.vercel.app/)
 
 ---
 
